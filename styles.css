@@ -1,17 +1,30 @@
 :root{
-  --obsidian:#0d100b;
-  --deep:#11170e;
-  --forest:#1f3b27;
-  --moss:#6f7d48;
-  --saffron:#df9a22;
-  --gold:#c5984a;
-  --cream:#f7efe1;
-  --ivory:#fffaf0;
-  --sand:#e8d7b7;
-  --ink:#20160d;
-  --muted:#776b5d;
-  --line:rgba(255,255,255,.16);
-  --dark-line:rgba(32,22,13,.14);
+  /* PREMIUM DARK BASE */
+  --obsidian:#0a0a0a;
+  --deep:#121212;
+
+  /* BOTANICAL TONES (more muted, luxury) */
+  --forest:#1c2b1f;
+  --moss:#55624c;
+
+  /* GOLD SYSTEM (less orange, more luxury) */
+  --saffron:#c6a15b;
+  --gold:#b8954a;
+
+  /* LIGHT BASE (cleaner, less yellow) */
+  --cream:#f5f1e8;
+  --ivory:#fbf8f2;
+  --sand:#e6d8bf;
+
+  /* TEXT */
+  --ink:#1a140d;
+  --muted:#7a6f5f;
+
+  /* LINES */
+  --line:rgba(255,255,255,.12);
+  --dark-line:rgba(0,0,0,.12);
+
+  /* IMAGES (unchanged) */
   --farm:url('images/turmeric_farm1.jpg');
   --field:url('images/turmeric_field1.jpg');
   --roots:url('images/turmeric_roots1.jpg');
