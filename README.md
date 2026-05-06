@@ -1,6 +1,6 @@
-# Haridra Roots / Tru Turmeric Netlify Website
+# Haridra Roots / Tru Turmeric 
 
-Static website package. Upload this folder to Netlify or drag-and-drop the ZIP into Netlify Deploys.
+
 
 ## Image notes
 The site references public Wikimedia Commons image URLs for turmeric farms and rhizomes. Replace these URLs in `styles.css` with your own farm/product photography when available.
